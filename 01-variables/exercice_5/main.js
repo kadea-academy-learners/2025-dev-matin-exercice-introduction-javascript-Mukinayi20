@@ -8,3 +8,6 @@ function celsiusToFahrenheit(celsius) {
   // la ligne suivante ne doit pas être modifiée
   return fahrenheit;
 }
+
+// les lignes suivantes ne sont pas à modifierMore actions
+module.exports = { celsiusToFahrenheit };
